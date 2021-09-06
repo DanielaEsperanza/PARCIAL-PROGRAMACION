@@ -1,4 +1,4 @@
-﻿
+
 namespace proyecto
 {
     partial class Form5
@@ -65,7 +65,7 @@ namespace proyecto
             this.Text = "Form5";
             this.ResumeLayout(false);
             this.PerformLayout();
-
+//parcial-programacion//
         }
 
         #endregion
@@ -75,3 +75,8 @@ namespace proyecto
     }
 }
 
+//karla daniela// 
+//alan henriquez//
+//Ivania Melani//
+//Geovani alexander//
+//alvaro Antonio//
