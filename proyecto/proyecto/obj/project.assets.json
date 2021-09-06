@@ -8,19 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\ivani\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\PARCIAL-PROGRAMACION\\proyecto\\proyecto\\proyecto.csproj",
+      "projectUniqueName": "C:\\Users\\ivani\\Source\\Repos\\PARCIAL-PROGRAMACIONm\\proyecto\\proyecto\\proyecto.csproj",
       "projectName": "proyecto",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\PARCIAL-PROGRAMACION\\proyecto\\proyecto\\proyecto.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\PARCIAL-PROGRAMACION\\proyecto\\proyecto\\obj\\",
+      "projectPath": "C:\\Users\\ivani\\Source\\Repos\\PARCIAL-PROGRAMACIONm\\proyecto\\proyecto\\proyecto.csproj",
+      "packagesPath": "C:\\Users\\ivani\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ivani\\Source\\Repos\\PARCIAL-PROGRAMACIONm\\proyecto\\proyecto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ivani\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
