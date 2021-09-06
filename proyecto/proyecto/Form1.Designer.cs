@@ -57,7 +57,7 @@ namespace proyecto
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(9, 3, 0, 3);
             this.menuStrip1.Size = new System.Drawing.Size(1289, 35);
             this.menuStrip1.TabIndex = 1;
-            this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.Text = "Menu";
             // 
             // saludoToolStripMenuItem
             // 
@@ -117,14 +117,14 @@ namespace proyecto
             // 
             this.ayudaParteLlToolStripMenuItem.Name = "ayudaParteLlToolStripMenuItem";
             this.ayudaParteLlToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
-            this.ayudaParteLlToolStripMenuItem.Text = "Ayuda Parte ll";
+            this.ayudaParteLlToolStripMenuItem.Text = "Ayuda Parte II";
             this.ayudaParteLlToolStripMenuItem.Click += new System.EventHandler(this.ayudaParteLlToolStripMenuItem_Click);
             // 
             // ayudaParteLllToolStripMenuItem
             // 
             this.ayudaParteLllToolStripMenuItem.Name = "ayudaParteLllToolStripMenuItem";
             this.ayudaParteLllToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
-            this.ayudaParteLllToolStripMenuItem.Text = "Ayuda Parte lll";
+            this.ayudaParteLllToolStripMenuItem.Text = "Ayuda Parte III";
             this.ayudaParteLllToolStripMenuItem.Click += new System.EventHandler(this.ayudaParteLllToolStripMenuItem_Click);
             // 
             // Form1
@@ -139,7 +139,7 @@ namespace proyecto
             this.MainMenuStrip = this.menuStrip1;
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Pagina Principal";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
